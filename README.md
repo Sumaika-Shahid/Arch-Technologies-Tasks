@@ -49,5 +49,3 @@ Example using g++:
 ##  Author
 Student Submission for Programming Assignment
 
-
-Example using g++:
