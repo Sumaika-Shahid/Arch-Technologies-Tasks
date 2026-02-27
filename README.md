@@ -49,6 +49,5 @@ Example using g++:
 ##  Author
 Student Submission for Programming Assignment
 
-1. Compile the program using any C++ compiler.
 
 Example using g++:
