@@ -1,7 +1,7 @@
 
 # Arch-Technologies-Tasks
 
-This repository contains the solution for Task 4 implemented in C++.
+This folder contains the solution for Task 4 implemented in C++.
 
 # Task 4: ATM Simulation
 
