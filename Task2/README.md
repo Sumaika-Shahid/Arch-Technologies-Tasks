@@ -28,8 +28,3 @@ Compile the program using any C++ compiler.
 # Author
 Student Submission for Programming Assignment
 
-How to Run
-Compile the program using any C++ compiler. 
-
-Author
-Student Submission for Programming Assignment
