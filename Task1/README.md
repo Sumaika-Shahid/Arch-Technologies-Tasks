@@ -8,10 +8,10 @@ This repository contains the solution for Task 1 implemented in C++.
 This program simulates rolling a pair of dice.
 
 # Features:
-Generates two random numbers between 1 and 6
-Displays the result of both dice
-Shows the total
-Asks the user if they want to roll again
+1. Generates two random numbers between 1 and 6
+2. Displays the result of both dice
+3. Shows the total
+4. Asks the user if they want to roll again
 
 # Concepts Used:
 -Random number generation
