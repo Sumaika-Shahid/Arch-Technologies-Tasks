@@ -27,5 +27,4 @@ Compile the program using any C++ compiler.
 # Author
 Student Submission for Programming Assignment. 
 
-Author
-Student Submission for Programming Assignment
+
