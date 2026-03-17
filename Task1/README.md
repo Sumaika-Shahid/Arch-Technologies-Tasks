@@ -14,9 +14,9 @@ This program simulates rolling a pair of dice.
 4. Asks the user if they want to roll again
 
 # Concepts Used:
--Random number generation
--Loops
--User input
+1. Random number generation
+2. Loops
+3. User input
 
 # Language Used:
 C++
