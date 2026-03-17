@@ -1,7 +1,7 @@
 
 # Arch-Technologies-Tasks
 
-This repository contains the solution for Task 1 implemented in C++.
+This folder contains the solution for Task 1 implemented in C++.
 
 # Task 1: Dice Rolling Game
 
