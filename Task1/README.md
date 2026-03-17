@@ -14,9 +14,9 @@ Shows the total
 Asks the user if they want to roll again
 
 # Concepts Used:
-Random number generation
-Loops
-User input
+-Random number generation
+-Loops
+-User input
 
 # Language Used:
 C++
